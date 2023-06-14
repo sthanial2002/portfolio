@@ -76,11 +76,11 @@ const projects = [
 	},*/
 	{
 		id: 8,
-		title: 'OMA',
+		title: 'CAURIZ',
 		category: 'Mobile Application',
 		tag: 'Flutter | Cloud Functions Firebase | Laravel',
 		url: 'https://play.google.com/store/apps/details?id=com.tout.customer',
-		img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657232610/portfolio/onemarket%20customer/screencapture-play-google-store-apps-details-2022-07-07-23_17_48_oqqnps.jpg',
+		img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686709541/Capture_d_%C3%A9cran_2023-06-14_031744_mupdbb.png',
 	},
 	{
 		id: 9,
