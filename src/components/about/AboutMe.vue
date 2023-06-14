@@ -6,7 +6,7 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Software Engineer and passionate about Web Technologies, I have been working freelance as a Web and Mobile Developer for more than 5 years',
+						'Software Engineer and passionate about Web Technologies more than 7 years of experience',
 				},
 				{
 					id: 2,
@@ -21,7 +21,7 @@ export default {
 				{
 					id: 4,
 					bio:
-						'Frameworks : Laravel - Flutter - VueJs',
+						'Frameworks : Laravel - VueJs - Flutter',
 				},
 				{
 					id: 5,
@@ -31,12 +31,12 @@ export default {
 				{
 					id: 6,
 					bio:
-						'Database : MySQL - MariaDB - PostgreSQL - SQLite',
+						'Databases : MySQL - MariaDB - PostgreSQL - SQLite',
 				},
 				{
 					id: 7,
 					bio:
-						'Platform : Heroku - Firebase',
+						'Platforms : Heroku - Firebase',
 				},
 				{
 					id: 8,
@@ -51,17 +51,17 @@ export default {
 
 <template>
 	<div class="block sm:flex sm:gap-10 mt-10 sm:mt-20">
-		<!-- About profile image -->
+		<!-- About profile image 
 		<div class="w-full sm:w-1/4 mb-7 sm:mb-0">
 			<img
 				src="https://res.cloudinary.com/sthanial2002/image/upload/v1657173363/sthanial/profil/SAM_3025_yvvjpp.jpg"
 				class="rounded-xl w-96"
 				alt=""
 			/>
-		</div>
+		</div>-->
 
 		<!-- About details -->
-		<div class="w-full sm:w-3/4 text-left">
+		<div class="w-full sm:w-4/4 text-left">
 			<p
 				v-for="bio in bios"
 				:key="bio.id"

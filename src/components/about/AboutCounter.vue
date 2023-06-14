@@ -89,7 +89,7 @@ export default {
 				<counter
 					ref="counter"
 					:startAmount="0"
-					:endAmount="58"
+					:endAmount="35"
 					:duration="1"
 					:autoinit="true"
 					@finished="alert(`Counting finished!`)"
