@@ -44,7 +44,7 @@ export default {
 								<h5
 									class=" text-primary-dark dark:text-primary-light text-xl"
 								>
-									What project are you looking for?
+									What project are you looking for ?
 								</h5>
 								<button
 									class="px-4 text-primary-dark dark:text-primary-light"
