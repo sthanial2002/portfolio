@@ -80,7 +80,7 @@ const projects = [
 		category: 'Mobile Application',
 		tag: 'Flutter | Cloud Functions Firebase | Laravel',
 		url: 'https://play.google.com/store/apps/details?id=com.tout.customer',
-		img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686710353/Capture_d_%C3%A9cran_2023-06-14_031744_dxdbcs.png',
+		img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686710569/Capture_d_%C3%A9cran_2023-06-14_031744_wgqlpg.png',
 	},
 	{
 		id: 9,
