@@ -16,28 +16,43 @@ export default {
 				},
 				{
 					id: 2,
+					title: 'INRIS FORMATION',
+					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686702898/sthanial/brands/logo_inris_nc5byq.png',
+				},
+				{
+					id: 3,
 					title: 'EDITIONS BENEFCLUB',
 					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657174508/sthanial/brands/hbeditions_lny2t8.png',
 				},
 				{
-					id: 3,
+					id: 4,
+					title: 'CAURIS',
+					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686702901/sthanial/brands/cauriz_xggfdb.png',
+				},
+				{
+					id: 5,
+					title: 'SEDJRO CONSULTING',
+					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686702905/sthanial/brands/sedjro_r2m0eb.png',
+				},
+				{
+					id: 6,
 					title: 'POUSS POUSS PANIER',
 					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657174655/sthanial/brands/pousspousspanier_s6dee7.jpg',
 				},
 				{
-					id: 4,
+					id: 7,
 					title: 'ONEMARKETALL',
 					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657175008/sthanial/brands/onemarketall_n6nw4h.png',
 				},
 				{
-					id: 5,
+					id: 8,
 					title: 'MY PLACE EVENTS',
-					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657175012/sthanial/brands/myplaceevents_cd9a2n.png',
+					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686703594/sthanial/brands/myplaceevents_cd9a2n_fiv3rs.png',
 				},
 				{
 					id: 6,
 					title: 'DATA SOFT',
-					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657175102/sthanial/brands/datasoft_qpmwi8.png',
+					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686703593/sthanial/brands/datasoft_qpmwi8_nngjqh.png',
 				},
 
 			],
