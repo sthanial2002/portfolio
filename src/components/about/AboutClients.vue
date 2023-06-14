@@ -40,17 +40,12 @@ export default {
 					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657174655/sthanial/brands/pousspousspanier_s6dee7.jpg',
 				},
 				{
-					id: 7,
-					title: 'ONEMARKETALL',
-					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1657175008/sthanial/brands/onemarketall_n6nw4h.png',
-				},
-				{
 					id: 8,
 					title: 'MY PLACE EVENTS',
 					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686703594/sthanial/brands/myplaceevents_cd9a2n_fiv3rs.png',
 				},
 				{
-					id: 6,
+					id: 9,
 					title: 'DATA SOFT',
 					img: 'https://res.cloudinary.com/sthanial2002/image/upload/v1686703593/sthanial/brands/datasoft_qpmwi8_nngjqh.png',
 				},
