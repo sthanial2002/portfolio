@@ -6,7 +6,7 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Software Engineer and passionate about Web Technologies with more than 7 years of experiences',
+						'Software Engineer and passionate about Web Technologies with more than 7 years of experiences.',
 				},
 				{
 					id: 2,
